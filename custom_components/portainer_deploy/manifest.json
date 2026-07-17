@@ -1,0 +1,12 @@
+{
+  "domain": "portainer_deploy",
+  "name": "Portainer Deploy",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/marcvanderhaar/ha-portainer-deploy",
+  "issue_tracker": "https://github.com/marcvanderhaar/ha-portainer-deploy/issues",
+  "codeowners": [],
+  "dependencies": [],
+  "requirements": [],
+  "iot_class": "local_polling"
+}
